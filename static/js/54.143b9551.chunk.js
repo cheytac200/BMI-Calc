@@ -1,0 +1,2 @@
+(this["webpackJsonpBMI-Calc"]=this["webpackJsonpBMI-Calc"]||[]).push([[54],{116:function(n,t,e){"use strict";e.r(t),e.d(t,"startStatusTap",(function(){return o}));var c=e(12),i=e(8),o=function(){var n=window;n.addEventListener("statusTap",(function(){Object(c.h)((function(){var t=n.innerWidth,e=n.innerHeight,o=document.elementFromPoint(t/2,e/2);if(o){var r=o.closest("ion-content");r&&new Promise((function(n){return Object(i.c)(r,n)})).then((function(){Object(c.f)((function(){return r.scrollToTop(300)}))}))}}))}))}}}]);
+//# sourceMappingURL=54.143b9551.chunk.js.map
