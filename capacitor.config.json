@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "BMI-Calc",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
